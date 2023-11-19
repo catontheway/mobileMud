@@ -1,0 +1,3 @@
+#/adm/daemons/newsd.c
+dbase (["channel_id":"帮助精灵",])
+news ({(["author_id":"admin","title":"孟之经已修复","author":"爱大米","msg":"如题，请测试孟之经任务","time":1606490694,]),(["author_id":"admin","title":"更新登陆人数限制","author":"爱大米","time":1608352091,"msg":"单一ip限制64人",]),(["author_id":"admin","title":"狂欢一个月","author":"爱大米","time":1608906545,"msg":"即日开始匡煌双倍一个月",]),(["author_id":"admin","title":"更新driver","author":"爱大米","msg":"已更新最新driver为fluffos v2019.20201121-60-gd50ff1a1","time":1614352281,]),(["author_id":"admin","title":"locate 已修复","author":"爱大米","time":1614950248,"msg":"如题",]),(["author_id":"o","title":"更改tsdx飞万安塔扣除黄金五两","msg":"","time":1633845926,"author":"幕后黑手",]),})

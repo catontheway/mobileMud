@@ -1,0 +1,110 @@
+========================================================================
+Full Command Line: driver.exe config.ini 
+Boot Time: Wed Nov 16 13:46:23 2022
+Version: fluffos v2019.20220507-13-gc2f3e886 (Microsoft Windows)
+jemalloc Version: 5.3.0-0-g54eaed1d8b56b1aa528be3bdd1877e59c56fa90c
+ICU Version: 71.1
+========================================================================
+Warning: Signal handler installation failed, not backtrace on crash!
+Final Debug Level: 0
+Processing config file: config.ini
+New Debug log location: "log/debug.log".
+Initializing internal stuff ....
+Event backend in use: win32
+WARNING: Platform doesn't support eval limit!
+==== Runtime Config Table ====
+time to clean up : 600
+time to reset : 900
+time to swap : 300
+evaluator stack size : 65536
+inherit chain size : 30
+maximum evaluation cost : 30000000
+maximum local variables : 64
+maximum call depth : 150
+maximum array size : 15000
+maximum buffer size : 1048576
+maximum mapping size : 150000
+maximum string length : 1048576
+maximum bits in a bitfield : 12000
+maximum byte transfer : 262144
+maximum read file size : 262144
+hash table size : 65536
+object table size : 4096
+living hash table size : 2048 # default: 256
+gametick msec : 1000
+heartbeat interval msec : 1000
+sane explode string : 1
+reversible explode string : 0
+sane sorting : 1
+warn tab : 0
+wombles : 0
+call other type check : 0
+call other warn : 0
+mudlib error handler : 1
+no resets : 0
+lazy resets : 0
+randomized resets : 1
+no ansi : 1
+strip before process input : 1
+this_player in call_out : 1
+trace : 1
+trace code : 0
+interactive catch tell : 0
+receive snoop : 1
+snoop shadowed : 0
+reverse defer : 0
+has console : 1
+noninteractive stderr write : 1 # default: 0
+trap crashes : 1
+old type behavior : 0
+old range behavior : 0
+warn old range behavior : 1
+suppress argument warnings : 1
+enable_commands call init : 1
+sprintf add_justified ignore ANSI colors : 1
+call_out(0) nest level : 1000
+trace lpc execution context : 0
+trace lpc instructions : 0
+enable mxp : 0
+enable gmcp : 0
+enable zmp : 0
+enable mssp : 1
+enable msp : 1
+==============================
+==== LPC Predefines ====
+#define FLUFFOS 
+#define HAS_DEBUG_LEVEL 
+#define HAS_ED 
+#define HAS_PRINTF 
+#define MAX_FLOAT 179769313486231570814527423731704356798070567525844996598917476803157260780028538760589558632766878171540458953514382464234321326889464182768467546703537516986049910576551282076245490090389328944075868508455133942304583236903222948165808559332123348274797826204144723168738177180919299881250404026184124858368.000000
+#define MAX_INT 9223372036854775807
+#define MIN_FLOAT 0.000000
+#define MIN_INT -9223372036854775808
+#define MUDOS 
+#define MUD_NAME "侠客行2022"
+#define SIZEOFINT 8
+#define __ARCH__ "Microsoft Windows"
+#define __ARGUMENTS_IN_TRACEBACK__ 
+#define __ARRAY_STATS__ 
+#define __AUTO_SETEUID__ 
+#define __CACHE_STATS__ 
+#define __CALLOUT_HANDLES__ 
+#define __CFG_COMPILER_STACK_SIZE__ 600
+#define __CFG_EVALUATOR_STACK_SIZE__ 65536
+#define __CFG_MAX_CALL_DEPTH__ 150
+#define __CFG_MAX_GLOBAL_VARIABLES__ 65536
+#define __CLASS_STATS__ 
+#define __COMMAND_BUF_SIZE__ 2000
+#define __COMPILER__ "C:/msys64/mingw64/bin/c++.exe"
+#define __CXXFLAGS__ "Broken"
+#define __DEBUG_MACRO__ 
+#define __DEFAULT_DB__ 1
+#define __DEFAULT_PRAGMAS__ PRAGMA_WARNINGS + PRAGMA_SAVE_TYPES + PRAGMA_ERROR_CONTEXT + PRAGMA_OPTIMIZE
+#define __DSLIB__ 
+#define __ED_INDENT_SPACES__ 4
+#define __ED_TAB_WIDTH__ 8
+#define __GET_CHAR_IS_BUFFERED__ 
+#define __HAS_CONSOLE__ 
+#define __HAVE_DIRENT_H__ 1
+#define __HAVE_JEMALLOC__ 1
+#define __HAVE_SIGNAL_H__ 1
