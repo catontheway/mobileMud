@@ -1,0 +1,105 @@
+// xiantian-gong.c 先天功
+// Made by hacky (1997.10.18)
+#include <ansi.h>
+inherit FORCE;
+
+int valid_enable(string usage) { return usage == "force"; }
+
+int valid_learn(object me)
+{
+	int lvl = (int)me->query_skill("xiantian-gong", 1);
+	if ( me->query("gender") == "无性")
+		return notify_fail("你无根无性，阴阳不调，如何领会先天功？\n");
+	if ( me->query("class") == "bonze" )
+		return notify_fail("先天功追求的乃是自然之道，于佛家六根清净之意有碍，"
+			+RANK_D->query_respect(me)+"欲修此功，如何堪破世间百情？\n");
+	if ((int)me->query_skill("force", 1) < 20)
+		return notify_fail("你的基本内功火候还不够。\n");
+	return 1;
+}
+
+int practice_skill(object me)
+{
+	return notify_fail("先天功只能用学(learn)来增加熟练度。\n");
+}
+
+string exert_function_file(string func)
+{
+	return __DIR__"xiantian-gong/" + func;
+}
+
+int force_character(string char_type)
+{
+	int recv;
+	recv=::force_character(char_type);
+	switch(char_type)
+	{
+	  case "TYPE_DEC_SPD":        //TYPE_DEC_SPD
+	  	return 80;
+	  case "TYPE_FORCE":        //TYPE_FORCE
+	  	return 250;
+    case "TYPE_SHIELD_NEILI":
+      return 3;
+	  default:
+	  	return recv;
+	}
+}
+mapping buffer_applied(object ob)
+{
+    mapping buf, tbuf;
+    int lv1, lv2, gint, pflv;
+    
+    lv1=ob->query_skill("xiantian-gong",1);
+    lv2=ob->query_skill("daoxue-xinfa",1);
+    gint=ob->query("con");
+    buf=([]);
+    
+   // if ( !ob->query("huashan_newskills/qizong") )
+     // return buf;
+
+    if ( lv1<=60 || lv2<=60 )
+      return buf;
+      
+    if ( mapp(ob->query_temp("passive/xiantian-gong")) )
+      return buf;
+    
+	pflv = (int)ob->query("purefamily/level");
+    if (pflv>0 && ob->query("purefamily/family_name") != "全真派")	pflv = 0;
+
+    buf["max_qi"]=(lv2/5 + lv1/5)*(100+gint)*2/5;
+	 buf["armor"]=(lv2/20 + lv1/10)*(100+gint)*1/5;
+    buf["max_jing"]=(lv2/5 + lv1/5)*(100+gint)*3/5;
+    ob->set_temp("passive/zixia-shengong", buf);
+    ob->set_temp("active_force_buffer/xiantian-gong/name", "先天功");                              //buff名称
+    ob->set_temp("active_force_buffer/xiantian-gong/effect1", "最大气血+"+(buf["max_qi"])+"点");     //效果描述1
+    ob->set_temp("active_force_buffer/xiantian-gong/effect2", "最大精神+"+(buf["max_jing"])+"点");
+    ob->set_temp("active_force_buffer/xiantian-gong/effect5", "防御+"+(buf["armor"])+"点");	//效果描述2
+	if (pflv>=5)
+	{
+		buf["AllPoisonsImmune"] = 50;
+		buf["anti_all_busy"] = 20;
+		ob->set_temp("active_force_buffer/xiantian-gong/effect3", "毒抗性+50%");   //效果描述2
+		ob->set_temp("active_force_buffer/xiantian-gong/effect4", "状态抗性+20%");   //效果描述2
+	}
+    return buf;
+}
+mapping buffer_removed(object ob)
+{
+    mapping buf;
+    
+    buf=ob->query_temp("passive/xiantian-gong");;
+    if ( mapp(buf) )
+    {
+      buf["max_qi"]=buf["max_qi"]*(-1);
+      buf["max_jing"]=buf["max_jing"]*(-1);
+	  buf["AllPoisonsImmune"]=buf["AllPoisonsImmune"]*(-1);
+	  buf["anti_all_busy"] = buf["anti_all_busy"]*(-1);
+	  buf["armor"] = buf["armor"]*(-1);
+    }
+    else
+      buf=([]);
+
+    ob->delete_temp("passive/xiantian-gong");
+    ob->delete_temp("active_force_buffer/xiantian-gong");
+    return buf;
+}
