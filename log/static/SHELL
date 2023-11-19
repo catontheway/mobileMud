@@ -1,0 +1,109 @@
+爱大米(Admin) use shell 0 on Sat Nov 07 12:25:15 2020
+爱大米(Admin) use shell sizeof("    "); on Sat Nov  7 19:24:58 2020
+爱大米(Admin) use shell write(read_bytes("/txt",1,1)); on Sat Nov  7 19:29:34 2020
+爱大米(Admin) use shell write(read_bytes("/txt",1,2)); on Sat Nov  7 19:29:41 2020
+爱大米(Admin) use shell write(read_bytes("/txt",)); on Sat Nov  7 19:29:48 2020
+爱大米(Admin) use shell write(read_bytes("/txt",0,1)); on Sat Nov  7 19:29:54 2020
+爱大米(Admin) use shell write(read_bytes("/txt",0,3)); on Sat Nov  7 19:29:57 2020
+爱大米(Admin) use shell write(read_bytes("/txt",0,6)); on Sat Nov  7 19:30:01 2020
+爱大米(Admin) use shell write(read_bytes("/txt",2,6)); on Sat Nov  7 19:30:07 2020
+爱大米(Admin) use shell write(read_bytes("/txt",3,6)); on Sat Nov  7 19:30:11 2020
+爱大米(Admin) use shell write(read_bytes("/txt",9,6)); on Sat Nov  7 19:31:08 2020
+爱大米(Admin) use shell write(read_bytes("/txt",12,6)); on Sat Nov  7 19:31:14 2020
+爱大米(Admin) use shell write(read_bytes("/txt",16,6)); on Sat Nov  7 19:31:20 2020
+爱大米(Admin) use shell write(read_bytes("/txt",16,3)); on Sat Nov  7 19:31:23 2020
+爱大米(Admin) use shell write(read_bytes("/txt",0,3)); on Sat Nov  7 19:31:28 2020
+爱大米(Admin) use shell write(read_bytes("/txt",18,3)); on Sat Nov  7 19:31:41 2020
+爱大米(Admin) use shell write(read_bytes("/txt",21,3)); on Sat Nov  7 19:31:49 2020
+爱大米(Admin) use shell load_object("/std/bitmap_font.c")->bitmap_font("太后"); on Sat Nov  7 20:02:20 2020
+爱大米(Admin) use shell load_object("/std/bitmap_font.c")->bitmap_font("太后"); on Sat Nov  7 20:02:28 2020
+爱大米(Admin) use shell write(load_object("/std/bitmap_font.c")->bitmap_font("太后")); on Sat Nov  7 20:02:39 2020
+爱大米(Admin) use shell write(typeof("微风")) on Tue Nov 10 20:10:00 2020
+爱大米(Admin) use shell write(typeof("微风")) on Tue Nov 10 20:10:20 2020
+爱大米(Admin) use shell write(typeof(strwidth("微风"))) on Tue Nov 10 20:10:47 2020
+爱大米(Admin) use shell write(sizeof("微风")+"") on Tue Nov 10 20:15:42 2020
+爱大米(Admin) use shell write(sizeof("微风")+"") on Tue Nov 10 20:15:46 2020
+爱大米(Admin) use shell write(debug_info(1, this_object())) on Sun Nov 15 18:32:39 2020
+爱大米(Admin) use shell write(debug_info(0, this_object())) on Sun Nov 15 18:33:26 2020
+爱大米(Admin) use shell printf("%O",call_out_info()) on Sun Nov 15 18:50:29 2020
+爱大米(Admin) use shell printf("%O",program_info()) on Sun Nov 15 18:52:43 2020
+爱大米(Admin) use shell write(find_player("admin")->getuid()) on Sun Nov 15 21:27:42 2020
+爱大米(Admin) use shell write(find_player("dxa")->getuid()) on Sun Nov 15 21:28:21 2020
+爱大米(Admin) use shell write(find_player("admin")->geteuid()) on Sun Nov 15 21:28:37 2020
+爱大米(Admin) use shell write(environment()) on Fri Nov 27 20:48:33 2020
+爱大米(Admin) use shell write(environment(find_player("admin"))) on Fri Nov 27 20:48:50 2020
+爱大米(Admin) use shell find_object("meng zhijing") on Fri Nov 27 20:58:20 2020
+爱大米(Admin) use shell write(find_object("meng zhijing")) on Fri Nov 27 20:58:28 2020
+爱大米(Admin) use shell write(find_object("guo jing")) on Fri Nov 27 20:58:47 2020
+爱大米(Admin) use shell write(find_object("/d/yingtiansouth/dufu/npc/meng.c")) on Fri Nov 27 20:59:43 2020
+爱大米(Admin) use shell write(find_object("/d/yingtiansouth/dufu/npc/meng.c")) on Fri Nov 27 20:59:56 2020
+爱大米(Admin) use shell sizeof("中原长江洛阳清凉峰镇江杀手帮泰山江州曲阜南昌麒麟村东天目山岳阳襄阳西") on Fri Nov 27 23:01:07 2020
+爱大米(Admin) use shell write(sizeof("中原长江洛阳清凉峰镇江杀手帮泰山江州曲阜南昌麒麟村东天目山岳阳襄阳西")) on Fri Nov 27 23:01:22 2020
+爱大米(Admin) use shell write(sizeof("中原长江")) on Fri Nov 27 23:01:29 2020
+爱大米(Admin) use shell write(strwidth("中原长江")) on Fri Nov 27 23:01:41 2020
+爱大米(Admin) use shell catch(fetch_variable("xxx")) on Mon Nov 30 02:47:38 2020
+爱大米(Admin) use shell catch(fetch_variable("xxx")) on Mon Nov 30 02:55:00 2020
+爱大米(Admin) use shell catch(fetch_variable("xxx")) on Mon Nov 30 02:55:29 2020
+爱大米(Admin) use shell catch(fetch_variable("xxx"));write ("xxx") on Mon Nov 30 02:55:38 2020
+爱大米(Admin) use shell catch(fetch_variable("xxx"));write ("\nxxx") on Mon Nov 30 02:56:00 2020
+爱大米(Admin) use shell evaluate("data", this_object()) on Sat Dec 12 22:20:07 2020
+爱大米(Admin) use shell printf("%O",evaluate("data", this_object())) on Sat Dec 12 22:20:29 2020
+爱大米(Admin) use shell mapping trans;string str;trans = ([ "GREEN" : "ansi-green", "RED" : "", "BLUE" : "1" ]);str = terminal_colour( "%^GREEN%^ and %^RED%^ and %^BLUE%^", trans );write(str); on Wed Dec 16 21:12:19 2020
+爱大米(Admin) use shell mapping trans;string str;trans = ([ "GREEN" : "ansi-green", "RED" : "", "BLUE" : 1 ]);str = terminal_colour( "%^GREEN%^ and %^RED%^ and %^BLUE%^", trans );write(str); on Wed Dec 16 21:12:30 2020
+爱大米(Admin) use shell explode("/players/jof","/") on Sat Dec 26 20:59:36 2020
+爱大米(Admin) use shell printf("%O",explode("/players/jof","/")) on Sat Dec 26 21:00:11 2020
+爱大米(Admin) use shell 0 on Sat Dec 26 21:13:43 2020
+爱大米(Admin) use shell file_size("blueguo.c") on Sat Dec 26 21:13:58 2020
+爱大米(Admin) use shell write(file_size("blueguo.c")) on Sat Dec 26 21:14:04 2020
+爱大米(Admin) use shell write(file_size("/u/add/blueguo.c")) on Sat Dec 26 21:14:10 2020
+爱大米(Admin) use shell for(int k=10;k>=0;k--){printf("%O",k);} on Sat Dec 26 21:20:05 2020
+爱大米(Admin) use shell for(int k=10;k>=0;k--){printf("%O",k);} on Sat Dec 26 21:20:07 2020
+爱大米(Admin) use shell for(int k=10;k>=0;k--){printf("%O",k);} on Sat Dec 26 21:20:07 2020
+爱大米(Admin) use shell for(int k=10;k>=0;k--){printf("%O",k);} on Sat Dec 26 21:20:10 2020
+爱大米(Admin) use shell for(int k=10;k>=0;k--){printf("%O",k);} on Sat Dec 26 21:20:13 2020
+爱大米(Admin) use shell for(int k=10;k>=0;k--){printf("%O",k);} on Sat Dec 26 21:20:14 2020
+爱大米(Admin) use shell for(int k=10;k>=0;k--){printf("%O",k);} on Sat Dec 26 21:20:14 2020
+爱大米(Admin) use shell for(int k=10;k>=0;k--){printf("%O",k);} on Sat Dec 26 21:20:14 2020
+爱大米(Admin) use shell for(int k=10;k>=0;k--){printf("%O",k);} on Sat Dec 26 21:20:15 2020
+爱大米(Admin) use shell for(int k=10;k>=0;k--){printf("%O",k);} on Sat Dec 26 21:20:15 2020
+爱大米(Admin) use shell for(int k=10;k>=0;k--){printf("%O",k);} on Sat Dec 26 21:20:15 2020
+爱大米(Admin) use shell for(int k=10;k>=0;k--){printf("%O",k);} on Sat Dec 26 21:20:18 2020
+爱大米(Admin) use shell for(int k=10;k>=0;k--){printf("%O",k);} on Sat Dec 26 21:20:23 2020
+爱大米(Admin) use shell for(int k=10;k>=0;k--){printf("%O",k);} on Sat Dec 26 21:20:24 2020
+爱大米(Admin) use shell for(int k=110;k>=0;k--){printf("%O",k);} on Sat Dec 26 21:20:34 2020
+爱大米(Admin) use shell for(int k=10;k>=0;k--){printf("%O",k);} on Sat Dec 26 21:20:39 2020
+爱大米(Admin) use shell for(int k=10;k>=0;k--){printf("%i",k);} on Sat Dec 26 21:20:44 2020
+爱大米(Admin) use shell for(int k=10;k>=0;k--){printf("%i",k);} on Sat Dec 26 21:20:45 2020
+爱大米(Admin) use shell for (int i = 0; i < 10; i++) {    write("i == " + i + "\n");     write("10 - i == " + (10 - i) + "\n"); } on Sat Dec 26 21:21:50 2020
+爱大米(Admin) use shell for (int i = 10; i > 0; i--) {    write("i == " + i + "\n");     write("10 - i == " + (10 - i) + "\n"); } on Sat Dec 26 21:22:14 2020
+爱大米(Admin) use shell write(mud_status(1)) on Sat Jan  9 14:20:11 2021
+爱大米(Admin) use shell object* obs = objects(); foreach(object ob in obs) { printf("%O: %d\n", ob, refs(ob));}; on Wed Feb 17 12:24:15 2021
+爱大米(Admin) use shell object* obs = objects(); foreach(object ob in obs) { printf("%O: %d\n", ob, refs(ob));}; on Wed Feb 17 12:25:52 2021
+爱大米(Admin) use shell explode("侠客行目前共使用","") on Fri Feb 26 23:08:04 2021
+爱大米(Admin) use shell printf("%O",explode("侠客行目前共使用","")) on Fri Feb 26 23:08:35 2021
+爱大米(Admin) use shell printf("%O",implode(explode("侠客行目前共使用",""),"@")) on Fri Feb 26 23:09:37 2021
+爱大米(Admin) use shell printf("%O",mud_status(1)) on Fri Feb 26 23:41:49 2021
+爱大米(Admin) use shell printf("%O",mud_status(1)) on Fri Feb 26 23:43:20 2021
+爱大米(Admin) use shell write(mud_status(1)) on Fri Feb 26 23:59:23 2021
+爱大米(Admin) use shell write(is_chinese("a")) on Fri Mar  5 21:11:26 2021
+爱大米(Admin) use shell write(is_chinese("好")) on Fri Mar  5 21:11:29 2021
+爱大米(Admin) use shell write(is_chinese("，")) on Fri Mar  5 21:11:42 2021
+爱大米(Admin) use shell write(is_chinese("“")) on Fri Mar  5 21:11:49 2021
+爱大米(Admin) use shell write(is_chinese("“")) on Fri Mar  5 21:11:55 2021
+爱大米(Admin) use shell write(is_chinese("1")) on Fri Mar  5 21:11:58 2021
+爱大米(Admin) use shell write(is_chinese("1啊")) on Fri Mar  5 21:12:02 2021
+爱大米(Admin) use shell write(is_chinese("啊")) on Fri Mar  5 21:12:05 2021
+爱大米(Admin) use shell write(is_chinese("（")) on Fri Mar  5 21:12:10 2021
+爱大米(Admin) use shell printf("%O",evaluate("a",this_object())); on Sun Mar 14 19:58:54 2021
+爱大米(Admin) use shell printf("%O",evaluate("a",this_object())); on Sun Mar 14 20:04:12 2021
+爱大米(Admin) use shell function f = (: write, "Hello, world!\n" :); on Sun Mar 14 20:37:59 2021
+爱大米(Admin) use shell function f = (: write, "Hello, world!\n" :);(*f)("1") on Sun Mar 14 20:38:40 2021
+爱大米(Admin) use shell "!\\x80"[00] on Mon Apr 12 16:58:00 2021
+爱大米(Admin) use shell "!\\x80"[0] on Mon Apr 12 16:58:14 2021
+爱大米(Admin) use shell "!\\x80"[0..0] on Mon Apr 12 16:58:28 2021
+爱大米(Admin) use shell "!\\x80"[0..0] on Mon Apr 12 16:58:40 2021
+爱大米(Admin) use shell find_object("") on Wed May 12 08:27:36 2021
+爱大米(Admin) use shell find_object("/clone/armor/cloth/") on Wed May 12 08:30:12 2021
+爱大米(Admin) use shell printf("%O",find_object("/clone/armor/cloth/")) on Wed May 12 08:30:37 2021
+爱大米(Admin) use shell printf("%O",find_object("/obj/cloth/")) on Wed May 12 08:31:37 2021
+爱大米(Admin) use shell printf("%O",find_object("/obj/corpes/")) on Wed May 12 08:32:05 2021

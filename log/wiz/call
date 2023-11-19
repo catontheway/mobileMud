@@ -1,0 +1,207 @@
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->set("combat_exp",100000000) on Tue Apr 21 11:43:39 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->set("combat_exp",130000000) on Tue Apr 21 11:43:50 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->set("combat_exp",200000000) on Tue Apr 21 11:43:59 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->query("guiyuan_cd") on Tue Apr 21 11:45:47 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->query("guiyuan_cd") on Tue Apr 21 11:45:48 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->query("guiyuan_cd") on Tue Apr 21 11:45:49 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->query("guiyuan_cd") on Tue Apr 21 11:45:50 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->query_temp("guiyuan_cd") on Tue Apr 21 11:46:03 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->query_temp("guiyuan_cd") on Tue Apr 21 11:47:14 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->query_temp("guiyuan_cd") on Tue Apr 21 11:47:15 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->query_temp("guiyuan_cd") on Tue Apr 21 11:47:15 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->query_temp("guiyuan_cd") on Tue Apr 21 11:47:15 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->query_temp("guiyuan_cd") on Tue Apr 21 11:47:16 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->set(combat_exp,200000000) on Tue Apr 21 11:52:17 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->set("neili",17510) on Tue Apr 21 13:25:45 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->set("max_neili",17510) on Tue Apr 21 13:25:47 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->set("eff_neili",17510) on Tue Apr 21 13:25:52 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->set("safari_skill/qz1",1) on Tue Apr 21 13:41:03 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->set("safari_skill/qz2",1) on Tue Apr 21 16:15:01 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->query("safari_skill/qz2") on Tue Apr 21 16:42:43 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->query("xiantian_sg_time") on Tue Apr 21 17:10:38 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->query_temp("xiantian_sg_time") on Tue Apr 21 17:10:43 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->query_temp("xiantian_sg_time") on Tue Apr 21 17:10:51 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->query_temp("xiantian_sg") on Tue Apr 21 17:12:29 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->query_temp("xiantian_sg") on Tue Apr 21 17:12:30 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->query_temp("xiantian_sg") on Tue Apr 21 17:12:30 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->query_temp("xiantian_sg") on Tue Apr 21 17:16:25 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->query_temp("xiantian_sg_time") on Tue Apr 21 17:16:30 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->query("xiantian_sg_time") on Tue Apr 21 17:16:33 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->query("xiantian_sg_time") on Tue Apr 21 17:21:00 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->query("xiantian_sg") on Tue Apr 21 17:21:05 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->query_temp("xiantian_sg") on Tue Apr 21 17:21:08 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->query("xiantian_sg_time") on Wed Apr 22 07:46:24 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->query("xiantian_sg") on Wed Apr 22 07:46:29 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->query_temp("xiantian_sg") on Wed Apr 22 07:46:37 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->query("xiutian_sg_time") on Wed Apr 22 07:51:09 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->query("xiantian_sg_time") on Wed Apr 22 07:51:13 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->query("xiantian_sg_time") on Wed Apr 22 07:51:22 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->set("xiantian_sg_time",0) on Wed Apr 22 07:51:33 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->query("xiantian_sg_time") on Wed Apr 22 07:51:35 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->set("xiantian_sg_time",0l) on Wed Apr 22 08:40:32 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->set("xiantian_sg_time",0) on Wed Apr 22 08:40:40 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->set("mr_skill/dzxy",1) on Tue May  5 16:06:26 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->set(mr_skill/dzxy,0) on Tue May  5 16:09:32 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->delete(mr_skill/dzxy) on Tue May  5 16:09:38 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->query(mr_skill/dzxy) on Tue May  5 16:09:44 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->set_temp(mr_skill/dzxy,1) on Tue May  5 16:09:52 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->query_temp(mr_skill/dzxy) on Tue May  5 16:09:58 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->query_temp("mr_skill/dzxy") on Tue May  5 16:25:34 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->query_temp("mr_skill/dzxy") on Tue May  5 16:33:36 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->set("special_skill/athanasy") on Mon Jun  8 14:11:10 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->set("special_skill/athanasy",1) on Mon Jun  8 14:11:12 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->add(special/levelup_point,1) on Mon Jun  8 14:13:33 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->add(repute,100000000) on Mon Jun  8 14:14:03 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->add(special_level/athanasy,2) on Mon Jun  8 14:14:23 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->set(special_level/athanasy,2) on Mon Jun  8 14:14:41 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->set(special_level/athanasy,2) on Mon Jun  8 14:16:46 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->set(special_skill/intellect,1) on Mon Jun  8 14:27:22 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->set(special_skill/constitution,1) on Mon Jun  8 14:43:52 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->set(special_level/athanasy,3) on Mon Jun  8 14:44:14 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->query(family/family_name) on Wed Jul 29 13:32:01 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->set(family/family_name,大轮寺) on Wed Jul 29 13:32:08 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->set(safari_credit,100) on Wed Jul 29 13:32:47 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->set(newjobs/completed/safari,70) on Wed Jul 29 13:35:31 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->set_skill(longxiang-boruo,1000) on Wed Jul 29 13:36:21 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->set(neili,1000) on Wed Jul 29 13:37:33 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->set(max_neili,1000) on Wed Jul 29 13:37:44 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->set(max_neili,10000) on Wed Jul 29 13:37:51 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->set(neili,10000) on Wed Jul 29 13:37:58 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->set(qixue,1000000) on Wed Jul 29 14:34:51 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->set(max_qixue,1000000) on Wed Jul 29 14:35:01 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->set(eff_qi,10000) on Thu Jul 30 09:32:09 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->set(qi,10000) on Thu Jul 30 09:32:18 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->set(qi,100000) on Thu Jul 30 09:32:26 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->set(eff_qi,100000) on Thu Jul 30 09:32:29 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->set(qi,100000) on Thu Jul 30 09:32:40 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->set(max_qi,100000) on Thu Jul 30 09:32:49 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->set(max_qi,1000000) on Thu Jul 30 09:33:00 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->set(qi,1000000) on Thu Jul 30 09:33:03 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->set(eff_qi,1000000) on Thu Jul 30 09:33:06 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->set(max_qi,1000000) on Thu Jul 30 09:33:12 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->set(max_qi,1000000) on Thu Jul 30 09:33:20 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->set(qi,1000000) on Thu Jul 30 09:33:44 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->delete_temp("longxiang.jingang") on Thu Jul 30 10:02:55 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->delete_temp("active_force_buffer/longxiang.jingang") on Thu Jul 30 10:03:12 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->set(eff_qi,1000000) on Sun Aug  2 13:02:38 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->set(qi,1000000) on Sun Aug  2 13:02:45 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->set(max_qi,1000000) on Sun Aug  2 13:04:58 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->set(qi,1000000) on Sun Aug  2 13:05:10 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->set(eff) on Sun Aug  2 13:05:13 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->set(eff_qi,1000000) on Sun Aug  2 13:05:17 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->delete_temp(longxiang.jingang) on Sun Aug  2 13:12:39 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->delete_temp(active_force_buffer/longxiang.jingang) on Sun Aug  2 13:13:04 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->delete_temp(active_force_buffer/longxiang.jingang) on Sun Aug  2 13:14:58 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->delete_temp(longxiang.jingang) on Sun Aug  2 13:24:13 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->delete_temp(longxiang.jingang) on Sun Aug  2 13:28:29 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->delete_temp(longxiang.jingang) on Sun Aug  2 13:29:58 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->set(max_qi,1000000) on Sun Aug  2 13:51:59 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->set(eff_qi,1000000) on Sun Aug  2 13:52:02 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->set(qi,1000000) on Sun Aug  2 13:52:05 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->set("max_qi",1000000) on Sun Aug  2 14:13:53 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->set("eff_qi",1000000) on Sun Aug  2 14:13:56 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->set("qi",1000000) on Sun Aug  2 14:13:59 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->set_temp(pfm_skip,1) on Sun Oct 18 15:43:49 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->start_busy(1) on Sun Oct 18 16:40:40 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->set(eff_qixue,100000) on Tue Oct 20 16:19:20 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->set(eff_qixue,1000000) on Tue Oct 20 16:19:24 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->set(qixue,1000000) on Tue Oct 20 16:19:34 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->delete(eff_qixue) on Tue Oct 20 16:20:15 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->delete(qixue) on Tue Oct 20 16:20:17 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->set(eff_qi,1000000) on Tue Oct 20 16:20:28 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->set(max_qi,1000000) on Tue Oct 20 16:20:31 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->set(qi,1000000) on Tue Oct 20 16:20:34 2015
+[1;33mＶ[2;37;0m[1;33m静电清水[2;37;0m(yhzzyahoo) call [1;33mＶ[2;37;0m张让(conneb)->query_skill(dodge) on Tue Oct 20 16:40:52 2015
+云之遥(lordstar) call 位图(vertu)->die() on Tue Sep 19 23:08:44 2017
+云之遥(lordstar) call 位图(vertu)->die() on Tue Sep 19 23:09:39 2017
+云之遥(lordstar) call 位图(vertu)->revive(1) on Tue Sep 19 23:27:34 2017
+云之遥(lordstar) call 位图(vertu)->revive(1) on Tue Sep 19 23:36:53 2017
+爱大米(admin) call 史矛戈(smaug)->delete(chris) on Sun Nov  8 11:30:35 2020
+爱大米(admin) call 史矛戈(smaug)->delete(kaizhan) on Sun Nov  8 11:32:44 2020
+爱大米(admin) call 史矛戈(smaug)->delete(kaizhan) on Sun Nov  8 11:32:50 2020
+爱大米(admin) call 史矛戈(smaug)->delete(kaizhan) on Sun Nov  8 11:32:54 2020
+爱大米(admin) call 史矛戈(smaug)->delete(kaizhan) on Sun Nov  8 11:32:57 2020
+爱大米(admin) call 史矛戈(smaug)->delete(kaizhan) on Sun Nov  8 11:33:04 2020
+爱大米(admin) call 史矛戈(smaug)->delete(kaizhan) on Sun Nov  8 11:33:10 2020
+爱大米(admin) call 史矛戈(smaug)->delete(kaizhan) on Sun Nov  8 11:33:14 2020
+爱大米(admin) call 史矛戈(smaug)->delete(kaizhan) on Sun Nov  8 11:33:18 2020
+爱大米(admin) call 史矛戈(smaug)->delete(kaizhan) on Sun Nov  8 11:33:23 2020
+爱大米(admin) call 史矛戈(smaug)->delete(kaizhan) on Sun Nov  8 11:33:26 2020
+爱大米(admin) call 史矛戈(smaug)->delete(kaizhan) on Sun Nov  8 11:33:31 2020
+爱大米(admin) call 史矛戈(smaug)->delete(kaizhan) on Sun Nov  8 11:34:07 2020
+爱大米(admin) call 史矛戈(smaug)->delete(kaizhan) on Sun Nov  8 11:34:11 2020
+爱大米(admin) call 史矛戈(smaug)->delete(kaizhan) on Sun Nov  8 11:34:21 2020
+爱大米(admin) call 史矛戈(smaug)->delete(kaizhan) on Sun Nov  8 11:34:26 2020
+爱大米(admin) call 史矛戈(smaug)->delete(kaizhan) on Sun Nov  8 11:34:29 2020
+爱大米(admin) call 史矛戈(smaug)->delete(kaizhan) on Sun Nov  8 11:34:32 2020
+爱大米(admin) call 史矛戈(smaug)->delete(kaizhan) on Sun Nov  8 11:34:35 2020
+爱大米(admin) call 史矛戈(smaug)->delete(kaizhan) on Sun Nov  8 11:34:39 2020
+爱大米(admin) call 史矛戈(smaug)->delete(kaizhan) on Sun Nov  8 11:34:42 2020
+爱大米(admin) call 大仙(dxa)->update_irregular_condition() on Sat Nov 14 21:59:26 2020
+幕后大黑手(o) call 梁上君子子[2;37;0m(hualc)->set("name",梁上君子) on Thu Sep 02 00:47:13 2021
+幕后黑手(o) call 习近平(a222444666)->set("name",习某某) on Wed Sep 08 11:19:11 2021
+幕后黑手(o) call 玥山河(qqa12345)->set("chbl_on",0) on Thu Sep 09 22:43:39 2021
+幕后黑手(o) call 慧无[2;37;0m(dashi)->set("luohan_winner",1) on Fri Sep 10 22:17:24 2021
+幕后黑手(o) call 慧无[2;37;0m(dashi)->set("xiantian/str/luohan",2) on Fri Sep 10 22:27:48 2021
+幕后黑手(o) call 慧无[2;37;0m(dashi)->add("xiantian/int/luohan",2) on Fri Sep 10 22:28:20 2021
+幕后黑手(o) call 慧无[2;37;0m(dashi)->set("xiantian/con/luohan",2) on Fri Sep 10 22:28:29 2021
+幕后黑手(o) call 慧无[2;37;0m(dashi)->set("xiantian/dex/luohan",2) on Fri Sep 10 22:28:35 2021
+幕后黑手(o) call 慧无[2;37;0m(dashi)->add("str",2) on Fri Sep 10 22:28:54 2021
+幕后黑手(o) call 慧无[2;37;0m(dashi)->add("int",2) on Fri Sep 10 22:29:02 2021
+幕后黑手(o) call 慧无[2;37;0m(dashi)->add("con",2) on Fri Sep 10 22:29:09 2021
+幕后黑手(o) call 慧无[2;37;0m(dashi)->add("dex",2) on Fri Sep 10 22:29:15 2021
+幕后黑手(o) call 明了(de1365)->set("owner","de1365") on Sat Sep 11 11:48:12 2021
+幕后黑手(o) call 明了(de1365)->set("givenBy","明了") on Sat Sep 11 11:48:47 2021
+幕后黑手(o) call 明了(de1365)->set("owner",de1365) on Sat Sep 11 11:49:22 2021
+[1;33mＶ[2;37;0m幕后黑手(o) call [1;33mＶ[2;37;0m曹青帝(justan1985)->set(combat_exp,1000) on Sun Sep 19 14:23:49 2021
+[1;33mＶ[2;37;0m幕后黑手(o) call [1;33mＶ[2;37;0m曹青帝(justan1985)->add(jhxk,800) on Mon Sep 20 16:04:11 2021
+[1;33mＶ[2;37;0m幕后黑手(o) call [1;33mＶ[2;37;0m灵鹫(ljhm)->set(max_neili,20000) on Tue Sep 21 18:50:12 2021
+[1;33mＶ[2;37;0m幕后黑手(o) call [1;33mＶ[2;37;0m测试(cs33093)->set_skill(daguangming-xinfa,1200) on Tue Sep 21 20:20:29 2021
+[1;33mＶ[2;37;0m幕后黑手(o) call [1;33mＶ[2;37;0m星宿老仙(justan1937)->set(max_jingli,50000) on Tue Sep 21 22:49:48 2021
+[1;33mＶ[2;37;0m幕后黑手(o) call [1;33mＶ[2;37;0m星宿老仙(justan1937)->set(max_jing,50000) on Tue Sep 21 23:04:34 2021
+[1;33mＶ[2;37;0m幕后黑手(o) call [1;33mＶ[2;37;0m星宿老仙(justan1937)->(max_jingli,50000) on Wed Sep 22 11:24:25 2021
+[1;33mＶ[2;37;0m幕后黑手(o) call [1;33mＶ[2;37;0m街溜子(de1365)->set_skill(chousui-zhang,150) on Thu Sep 23 17:07:54 2021
+[1;33mＶ[2;37;0m眼(eyas) call [1;33mＶ[2;37;0m南柯一梦(xin0320)->set(jhxk,66) on Mon Nov 14 18:57:21 2022
+[1;33mＶ[2;37;0m眼(eyas) call [1;33mＶ[2;37;0m神乐巫女(shenyuewunv)->set(jhxk,66) on Mon Nov 14 19:42:13 2022
+[1;33mＶ[2;37;0m眼(eyas) call [1;33mＶ[2;37;0m了南[2;37;0m(xin0320)->set(jhxk,60) on Mon Nov 14 20:08:59 2022
+[1;33mＶ[2;37;0m眼(eyas) call [1;33mＶ[2;37;0m了南[2;37;0m(xin0320)->set(jhxk,66) on Mon Nov 14 20:09:26 2022
+[1;33mＶ[2;37;0m眼(eyas) call [1;33mＶ[2;37;0m饺子(jiaozi)->set(combat_exp,7000000) on Mon Nov 14 21:41:01 2022
+[1;33mＶ[2;37;0m眼(eyas) call [1;33mＶ[2;37;0m饺子(jiaozi)->set_skill(force,300) on Mon Nov 14 21:41:42 2022
+[1;33mＶ[2;37;0m眼(eyas) call [1;33mＶ[2;37;0m风逍遥(fengxiaoyao)->set(jhxk,66) on Mon Nov 14 21:45:43 2022
+[1;33mＶ[2;37;0m眼(eyas) call [1;33mＶ[2;37;0m风逍遥(fengxiaoyao)->set(jhxk,191) on Mon Nov 14 21:47:16 2022
+[1;33mＶ[2;37;0m眼(eyas) call [1;33mＶ[2;37;0m玩不了(f1347247787)->set(jhxk,66) on Mon Nov 14 21:47:52 2022
+[1;33mＶ[2;37;0m眼(eyas) call [1;33mＶ[2;37;0m任飘渺(renpiaomai)->set(jhxk,66) on Mon Nov 14 21:49:00 2022
+[1;33mＶ[2;37;0m眼(eyas) call [1;33mＶ[2;37;0m天子(tianzi)->set_skill(bihai-chaosheng,50000) on Tue Nov 15 09:45:37 2022
+[1;33mＶ[2;37;0m眼(eyas) call [1;33mＶ[2;37;0m天子(tianzi)->set_skill(bihai-shengong,50000) on Tue Nov 15 09:47:23 2022
+[1;33mＶ[2;37;0m眼(eyas) call [1;33mＶ[2;37;0m天子(tianzi)->set_skill(qimen-bagua,500) on Tue Nov 15 09:47:51 2022
+[1;33mＶ[2;37;0m眼(eyas) call [1;33mＶ[2;37;0m天子(tianzi)->set_skill(literabe,50000) on Tue Nov 15 09:48:29 2022
+[1;33mＶ[2;37;0m眼(eyas) call [1;33mＶ[2;37;0m天子(tianzi)->set_skill(literate,50000) on Tue Nov 15 09:49:01 2022
+[1;33mＶ[2;37;0m眼(eyas) call [1;33mＶ[2;37;0m宋珧(songyao)->set_skill(qishang-quan,400) on Tue Nov 15 11:54:37 2022
+[1;33mＶ[2;37;0m眼(eyas) call [1;33mＶ[2;37;0m宋珧(songyao)->set(combat_exp,10000000) on Tue Nov 15 13:02:33 2022
+[1;33mＶ[2;37;0m眼(eyas) call [1;33mＶ[2;37;0m宋珧(songyao)->set_skill(bihai-shengong,468) on Wed Nov 16 00:05:26 2022
+[1;33mＶ[2;37;0m眼(eyas) call [1;33mＶ[2;37;0m宋珧(songyao)->set_skill(fuxue-shou,468) on Wed Nov 16 00:05:44 2022
+[1;33mＶ[2;37;0m眼(eyas) call [1;33mＶ[2;37;0m宋珧(songyao)->set_skill(luoying-hands,468) on Wed Nov 16 00:05:56 2022
+[1;33mＶ[2;37;0m眼(eyas) call [1;33mＶ[2;37;0m宋珧(songyao)->set_skill(luoying-zhang,468) on Wed Nov 16 00:06:13 2022
+[1;33mＶ[2;37;0m眼(eyas) call [1;33mＶ[2;37;0m宋珧(songyao)->set_skill(qimen-baguazhen,468) on Wed Nov 16 00:06:39 2022
+[1;33mＶ[2;37;0m眼(eyas) call [1;33mＶ[2;37;0m宋珧(songyao)->set_skill(tanzhi-shengong,468) on Wed Nov 16 00:06:50 2022
+[1;33mＶ[2;37;0m眼(eyas) call [1;33mＶ[2;37;0m宋珧(songyao)->set_skill(yuxiao-jian,468) on Wed Nov 16 00:08:13 2022
+[1;33mＶ[2;37;0m眼(eyas) call [1;33mＶ[2;37;0m宋珧(songyao)->set_skill(force,468) on Wed Nov 16 00:08:39 2022
+[1;33mＶ[2;37;0m眼(eyas) call [1;33mＶ[2;37;0m宋珧(songyao)->set_skill(dodge,468) on Wed Nov 16 00:08:50 2022
+[1;33mＶ[2;37;0m眼(eyas) call [1;33mＶ[2;37;0m宋珧(songyao)->set_skill(sword,468) on Wed Nov 16 00:08:57 2022
+[1;33mＶ[2;37;0m眼(eyas) call [1;33mＶ[2;37;0m宋珧(songyao)->set_skill(hands,468) on Wed Nov 16 00:09:06 2022
+[1;33mＶ[2;37;0m眼(eyas) call [1;33mＶ[2;37;0m宋珧(songyao)->set_skill(hand,468) on Wed Nov 16 00:09:12 2022
+[1;33mＶ[2;37;0m眼(eyas) call [1;33mＶ[2;37;0m宋珧(songyao)->set_skill(strike,468) on Wed Nov 16 00:09:24 2022
+[1;33mＶ[2;37;0m眼(eyas) call [1;33mＶ[2;37;0m宋珧(songyao)->set_skill(finger,468) on Wed Nov 16 00:09:33 2022
+[1;33mＶ[2;37;0m眼(eyas) call [1;33mＶ[2;37;0m宋珧(songyao)->set_skill(parry,468) on Wed Nov 16 00:11:07 2022
+[1;33mＶ[2;37;0m眼(eyas) call [1;33mＶ[2;37;0m宋珧(songyao)->set_skill(throwing,468) on Wed Nov 16 00:11:15 2022
+[1;33mＶ[2;37;0m眼(eyas) call [1;33mＶ[2;37;0m宋珧(songyao)->set_skill(music::music-theory,468) on Wed Nov 16 00:11:49 2022
+[1;33mＶ[2;37;0m眼(eyas) call [1;33mＶ[2;37;0m宋珧(songyao)->set_skill(music::music-theory,500) on Wed Nov 16 00:12:47 2022
+[1;33mＶ[2;37;0m眼(eyas) call [1;33mＶ[2;37;0m宋珧(songyao)->set_skill(music::shaw,468) on Wed Nov 16 00:12:58 2022
+[1;33mＶ[2;37;0m眼(eyas) call [1;33mＶ[2;37;0m宋珧(songyao)->set_skill(music::shaw,500) on Wed Nov 16 00:13:13 2022
+[1;33mＶ[2;37;0m眼(eyas) call [1;33mＶ[2;37;0m宋珧(songyao)->set_skill(music::shaw::yuqiao-wenda,468) on Wed Nov 16 00:13:32 2022
+[1;33mＶ[2;37;0m眼(eyas) call [1;33mＶ[2;37;0m宋珧(songyao)->set(jhxk,468) on Wed Nov 16 00:39:49 2022
+[1;33mＶ[2;37;0m眼(eyas) call [1;33mＶ[2;37;0m宋珧(songyao)->set(zhang-zhi,46800) on Wed Nov 16 00:58:40 2022
+[1;33mＶ[2;37;0m眼(eyas) call [1;33mＶ[2;37;0m宋珧(songyao)->set(repute,5000000) on Wed Nov 16 03:12:08 2022
+[1;33mＶ[2;37;0m眼(eyas) call [1;33mＶ[2;37;0m宋珧(songyao)->set(balance,20000000) on Wed Nov 16 03:12:45 2022
+[1;33mＶ[2;37;0m眼(eyas) call [1;33mＶ[2;37;0m宋珧(songyao)->set(balance,3000000000) on Wed Nov 16 03:13:32 2022
+[1;33mＶ[2;37;0m眼(eyas) call [1;33mＶ[2;37;0m宋珧(songyao)->set(combat_exp,11000000) on Wed Nov 16 03:16:06 2022
